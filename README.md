@@ -1,11 +1,11 @@
-# 📊 Sales Performance Dashboard — Power BI
+# Sales Performance Dashboard — Power BI
 
-## 🔹 Project Overview
+## Project Overview
 This project presents an interactive **Sales Performance Dashboard** developed using Microsoft Power BI to analyze store-level financial performance. The dashboard consolidates key sales metrics into a single executive view, enabling stakeholders to monitor profitability, cost efficiency, and revenue growth.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Track overall sales performance  
 - Compare revenue vs operational costs  
@@ -15,7 +15,7 @@ This project presents an interactive **Sales Performance Dashboard** developed u
 
 ---
 
-## 🗂 Data Source
+## Data Source
 
 - **Dataset:** public_coles_sales  
 - **Database:** PostgreSQL  
@@ -29,7 +29,7 @@ This project presents an interactive **Sales Performance Dashboard** developed u
 
 ---
 
-## 🧮 DAX Measures Created
+## DAX Measures Created
 
 ```DAX
 Total Revenue = SUM(gross_sale)
