@@ -3,7 +3,9 @@
 ## Project Overview
 This project presents an interactive **Sales Performance Dashboard** developed using Microsoft Power BI to analyze store-level financial performance. The dashboard consolidates key sales metrics into a single executive view, enabling stakeholders to monitor profitability, cost efficiency, and revenue growth.
 
+## Dashboard Preview
 
+![Sales Performance Overview](images/Sales%20Performance%20Overview.png)
 
 ## Objectives of the Project
 
